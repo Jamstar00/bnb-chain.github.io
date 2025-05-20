@@ -37,6 +37,7 @@ global_virtual_group_family_id:40
 ## Access Control Management Workflow with Group
 
 To manage how users can access your files, you have to follow this process:
+
 1. Set `Principle Address` which has the administrator role
 2. Customize groups members
 3. Customize access policy, which may depends on different circustances
