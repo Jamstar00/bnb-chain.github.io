@@ -2,18 +2,11 @@
 # Announcement
 
 <div class="doc-announce">
-    <a href="./volta-opbnb/">
+    <a href="./final-sunset-bc-testnet">
         <div>
-            <div class="announce-title">Volta Upgrade of opBNB (Mainnet) </div>
-            <div class="announce-desc">One BEP on opBNB Mainnet</div>
+            <div class="announce-title">BC Final Sunset Hardfork (Testnet) </div>
+            <div class="announce-desc">Enable Final Sunset Hardfork on BC testnet</div>
         </div>
-        <span class="announce-date">2025 Apr 17</span>
-    </a>
-    <a href="./maxwell-bsc/">
-        <div>
-            <div class="announce-title">Maxwell Upgrade of BSC </div>
-            <div class="announce-desc">Three BEPs on BSC Testnet/Mainnet</div>
-        </div>
-        <span class="announce-date">2025 Apr 24</span>
+        <span class="announce-date">2023 July 17th</span>
     </a>
 </div>
