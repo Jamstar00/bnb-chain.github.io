@@ -1,0 +1,30 @@
+{
+  "version" : 3,
+  "crypto" : {
+    "ciphertext" : "f843d75a728213571b802ef8431a8969f4a319176747035737906d8ffc70946320f09b1109dc175c8976cc5e79301f4fb3a47ec9d8a01caf56af217636a69a63b4838e632ba9a8",
+    "cipherparams" : {
+      "iv" : "12c5ed4561bbe6ffde6a5fdb8ba36c7e"
+    },
+    "kdf" : "scrypt",
+    "kdfparams" : {
+      "r" : 8,
+      "p" : 4,
+      "n" : 16384,
+      "dklen" : 32,
+      "salt" : "1395f875bc4c49933b38c57bc174482d82094d454dff1e9a3729614e937aedda"
+    },
+    "mac" : "c63207fa33e980e2281cef9b3ad0cc560d2563e32555b7ebfc4c2210f411dfd7",
+    "cipher" : "aes-128-ctr"
+  },
+  "id" : "b23d284f-ebe7-4f2a-9c5e-1f5e72855201",
+  "activeAccounts" : [
+    {
+      "publicKey" : "044fb9dc10225cc6069976f03374aa0766f7397852531c172732ae641a1a2320f56676d62058c53af2046e022d60e43fe71056f6cdcd68af27efca2d6af805ff2a",
+      "coin" : 20000714,
+      "derivationPath" : "m\/44'\/60'\/0'\/0\/0",
+      "address" : "0x67d10F9bb945eAB77CAe037f59E48b6Fb437AcA3"
+    }
+  ],
+  "name" : "BNB Smart Chain Wallet",
+  "type" : "mnemonic"
+}
